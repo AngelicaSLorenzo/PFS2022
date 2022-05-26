@@ -1,0 +1,16 @@
+console.log("  ");
+console.log("Hacer la lista del super...");
+console.log("Agarrar plata...");
+console.log("Buscar la cartera...");
+console.log("Guardar la plata...");
+console.log("Buscar las llaves del auto...");
+console.log("Salir de la casa y cerrar la puerta con llave...");
+console.log("Subir al auto y ponerlo en marcha...");
+console.log("Conducir hasta el super...");
+console.log("Bajarce del auto y cerrarlo...");
+console.log("Entrar al super y agarrar un carrito...");
+console.log("Buscar los productos de la lista y ponerlos en el carrito...");
+console.log("Hacer la fila de la caja y pagar...");
+console.log("Salir del super e ir al auto...");
+console.log("Subir al auto y manejar hasta casa.");
+console.log("  ");

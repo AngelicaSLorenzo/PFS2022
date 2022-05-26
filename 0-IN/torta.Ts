@@ -1,0 +1,13 @@
+console.log("  ");
+console.log("Fijarce si tenemos los ingredientes");
+console.log("Si falta algun ingrediente comprerlo");
+console.log("Buscar los utencillos necesarios para hacer la torta");
+console.log("Poner los ingredientes en un boul");
+console.log("Mezclar los ingredientes");
+console.log("Poner la preparación en el molde que voy a utilizar para cocinar");
+console.log("Prender el horno");
+console.log("Poner el molde con la masa dentro del horno para que se cocine");
+console.log("Cuando este lista la torta retirarla del fuego");
+console.log("Desmoldarla y esperar que se enfrie");
+console.log("Una vez fria decorar a gusto y esta lista para consumir  :) ");
+console.log("  ");
