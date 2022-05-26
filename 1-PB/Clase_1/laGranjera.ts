@@ -1,0 +1,10 @@
+console.log("Avanzar y eliminar una pila..");
+console.log("Avanzar y eliminar una pila..");
+console.log("Avanzar y eliminar una pila..");
+console.log("Avanzar y eliminar una pila..");
+console.log("Girar a la izquierda 90 grados..");
+console.log("Avanzar y eliminar una pila..");
+console.log("Avanzar y eliminar una pila..");
+console.log("Avanzar y eliminar una pila..");
+console.log("Avanzar y eliminar una pila..");
+console.log("Avanzar y eliminar una pila..");
